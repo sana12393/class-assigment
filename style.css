@@ -1,0 +1,180 @@
+body{
+    margin:0px;
+}
+.c1{
+    height:250px;
+    border:none;
+    /* width:25%; */
+    padding:20px;
+    background-color:#4F91CD;
+    
+}
+.c1 li{
+    list-style: none;
+    line-height:100px ;
+    /* border-right: 0.3px solid; */
+    padding:5px;
+    float:left;
+    text-align:left;
+    color:white;
+}
+.c1 button{
+    margin:10px;
+    float:right;
+    border:solid;
+    background-color:#4F91CD ;
+    text-align: right;
+    color:white;
+    padding:15px;
+    border-color: white;
+    
+} 
+ .c1 h3{
+    text-align:left;
+    font-size:70px;
+    line-height:10px ; 
+    
+}
+.c1 h6{
+   text-align:center;
+   font-size:20px;
+   font:white;
+
+}
+.c2 {
+     border:none;
+     height:100px;
+     background-color:#043867 ;
+} 
+ .c2 li{
+    list-style: none;
+    color:white;
+    text-align:left;
+    float:left;
+    padding:40px;
+    border-right: .5px;
+ }
+ .er{
+   
+   
+    width:25%;
+    padding:50px 500px;
+   
+    height: 50px;
+    background-color: rgb(52, 191, 238);
+ }
+ .ee{
+    text-decoration-style:left;
+    padding:20px;
+ 
+ }
+   #cr h1{
+    font:200px;
+    text-align:center;
+ }
+ 
+ #cr{
+    float: left;
+    display:inline;
+    padding:0px;
+ 
+    }
+ .c12{
+    color:white;
+    background: solid;
+    background-color: #7AA120;
+    border-width:50px;
+    
+ 
+ }
+ .c3 h1{
+    color:blue;
+ 
+ }
+ .c3{
+    color:black;
+    background-color: rgb(224, 224, 241);
+    width:300px;
+    border:15px;
+    padding:40px;
+    margin:20px;
+ }
+ .c4 h1{
+     color:blue
+ }
+ .c4{
+    color:black;
+    width:300px;
+    border:15px;
+    padding:40px;
+    margin:20px;
+    background-color:  rgb(224, 224, 241);
+ 
+ }
+ .c5 h1{
+     color:blue;
+ }
+ .c5{
+    color:black;
+    width:300px;
+    border:15px;
+    padding:40px;
+    margin:20px;
+    background-color: rgb(224, 224, 241);
+ }
+ .c6{
+    font-size: x-large;
+     color:white;
+    background-color: purple;
+    width:300px;
+    border:15px;
+    padding:50px;
+    margin:20px;
+ 
+ }
+ .c7{
+    font-size:x-large;
+    color:white;
+    background-color: rgb(87, 87, 201);
+    width:300px;
+    border:15px;
+    padding:50px;
+    margin:20px;
+ }
+ 
+ button{
+    color:blue;
+    border-color: blue;
+    background-color: white;
+ }  
+ p1{
+    color:blue;
+ }
+ .c0{
+    padding:25px;
+    margin:15px;
+    border:solid;
+    color:white;
+    background-color: black;
+    
+ }
+ .v12{
+    color:rgb(144, 247, 144);
+    width:20px;
+    padding:10px 20px;
+    margin:0px;
+    border:3px solid ;
+     background-color: white;
+     border-color: black;
+ }
+ ul{
+    color:grey;
+    list-style:none; 
+ }
+ .ft{
+  
+    height: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:10px;
+    text-align:center;
+ }
